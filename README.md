@@ -5,7 +5,7 @@
 
 1. [Introducción](#introducción)
 2. [Pila tecnológica](#pila-tecnológica)
-3. [Funciones](#funcioes)
+3. [Funciones](#funciones)
 4. [Inicio rápido](#inicio-rápido)
 5. [Fragmentos](#fragmentos)
 
