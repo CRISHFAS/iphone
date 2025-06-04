@@ -1,51 +1,19 @@
-<div align="center">
-  <br />
-    <a href="https://youtu.be/kRQbRAJ4-Fs" target="_blank">
-      <img src="https://i.postimg.cc/37PnQw8n/Image-from.png" alt="Project Banner">
-    </a>
-  <br />
+<h3 align="center">Iphone 15 Website</h3>
 
-  <div>
-    <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
-    <img src="https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logoColor=white&logo=threedotjs&color=000000" alt="three.js" />
-    <img src="https://img.shields.io/badge/-GSAP-black?style=for-the-badge&logoColor=white&logo=greensock&color=88CE02" alt="greensock" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
-  </div>
 
-  <h3 align="center">Iphone 15 Website</h3>
+## <a name="table">Tabla de contenidos</a>
 
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
-</div>
+1. [Introducción](#introducción)
+2. [Pila tecnológica](#pila-tecnológica)
+3. [Funciones](#funcioes)
+4. [Inicio rápido](#inicio-rápido)
+5. [Fragmentos](#fragmentos)
 
-## 📋 <a name="table">Table of Contents</a>
+## <a name="introducción"> Introducción</a>
 
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets](#snippets)
-6. 🔗 [Links](#links)
-7. 🚀 [More](#more)
+Este es un clon del sitio web del iPhone 15 Pro de Apple que usa React.js y TailwindCSS. Destaca el uso efectivo de GSAP (Greensock Animations) y Three.js para mostrar modelos de iPhone 15 Pro en varios colores y formas.
 
-## 🚨 Tutorial
-
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>. 
-
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
-
-<a href="https://youtu.be/kRQbRAJ4-Fs" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
-
-## <a name="introduction">🤖 Introduction</a>
-
-This is a clone of Apple's iPhone 15 Pro website using React.js and TailwindCSS. It highlights the effective use of GSAP (Greensock Animations) and Three.js for displaying iPhone 15 Pro models in various colors and shapes.
-
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
-
-## <a name="tech-stack">⚙️ Tech Stack</a>
+## <a name="pila-tecnológica"> Pila tecnológica</a>
 
 - React.js
 - Three.js
@@ -55,54 +23,53 @@ If you're getting started and need assistance or face any bugs, join our active 
 - Vite
 - Tailwind CSS
 
-## <a name="features">🔋 Features</a>
+## <a name="funciones">🔋 Funciones</a>
 
-👉 **Beautiful Subtle Smooth Animations using GSAP**: Enhanced user experience with seamless and captivating animations powered by GSAP.
+**Hermosas animaciones sutiles y suaves con GSAP**: Experiencia de usuario mejorada con animaciones fluidas y cautivadoras con tecnología GSAP.
 
-👉 **3D Model Rendering with Different Colors and Sizes**: Explore the iPhone 15 Pro from every angle with dynamic 3D rendering, offering various color and size options.
+**Renderizado de modelos 3D con diferentes colores y tamaños**: Explora el iPhone 15 Pro desde todos los ángulos con el renderizado 3D dinámico, que ofrece varias opciones de color y tamaño.
 
-👉 **Custom Video Carousel (made with GSAP)**: Engage users with a unique and interactive video carousel developed using GSAP for a personalized browsing experience.
+**Carrusel de video personalizado (hecho con GSAP)**: Atraiga a los usuarios con un carrusel de video único e interactivo desarrollado con GSAP para una experiencia de navegación personalizada.
 
-👉 **Completely Responsive**: Consistent access and optimal viewing on any device with a fully responsive design that adapts to different screen sizes.
+**Completely Responsive**: Acceso consistente y visualización óptima en cualquier dispositivo con un diseño totalmente responsive que se adapta a diferentes tamaños de pantalla. 
 
-and many more, including code architecture and reusability 
+## <a name="inicio-rápido"> Inicio rápido</a>
 
-## <a name="quick-start">🤸 Quick Start</a>
+Siga estos pasos para configurar el proyecto localmente en su máquina.
 
-Follow these steps to set up the project locally on your machine.
+**Prerrequisitos**
 
-**Prerequisites**
-
-Make sure you have the following installed on your machine:
+Asegúrese de tener instalado lo siguiente en su máquina:
 
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en)
 - [npm](https://www.npmjs.com/) (Node Package Manager)
 
-**Cloning the Repository**
+**Clonación del repositorio**
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/iphone-doc.git
-cd iphone-doc
+git clone https://github.com/CRISHFAS/iphone
+cd iphone
 ```
 
-**Installation**
+**Instalación**
 
-Install the project dependencies using npm:
+Instale las dependencias del proyecto usando npm:
+
 
 ```bash
 npm install
 ```
 
-**Running the Project**
+**Ejecución del proyecto**
 
 ```bash
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+Abra [http://localhost:5173](http://localhost:5173) en su navegador para ver el proyecto.
 
-## <a name="snippets">🕸️ Snippets</a>
+## <a name="fragmentos"> Fragmentos</a>
 
 <details>
 <summary><code>tailwind.config.js</code></summary>
@@ -234,18 +201,18 @@ import { Environment, Lightformer } from "@react-three/drei";
 
 const Lights = () => {
   return (
-    // group different lights and lightformers. We can use group to organize lights, cameras, meshes, and other objects in the scene.
+    // Agrupar diferentes luces y formadores de luz. Podemos usar el grupo para organizar luces, cámaras, mallas y otros objetos en la escena.
     <group name="lights">
-      {/**
-       * @description Environment is used to create a background environment for the scene
-       * https://github.com/pmndrs/drei?tab=readme-ov-file#environment
-       */}
+    {/**
+    * @description Environment se utiliza para crear un entorno de fondo para la escena.
+    * https://github.com/pmndrs/drei?tab=readme-ov-file#environment
+    */}
       <Environment resolution={256}>
         <group>
           {/**
-           * @description Lightformer used to create custom lights with various shapes and properties in a 3D scene.
+           * @description Lightformer se utiliza para crear luces personalizadas con diversas formas y propiedades en una escena 3D.
            * https://github.com/pmndrs/drei?tab=readme-ov-file#lightformer
-           */}
+          */}
           <Lightformer
             form="rect"
             intensity={10}
@@ -271,16 +238,15 @@ const Lights = () => {
       </Environment>
 
       {/**
-       * @description spotLight is used to create a light source positioned at a specific point
-       * in the scene that emits light in a specific direction.
-       * https://threejs.org/docs/#api/en/lights/SpotLight
-       */}
+      * @description spotLight se utiliza para crear una fuente de luz ubicada en un punto específico de la escena que emite luz en una dirección específica.
+      * https://threejs.org/docs/#api/en/lights/SpotLight
+      */}
       <spotLight
         position={[-2, 10, 5]}
         angle={0.15}
-        penumbra={1} // the penumbra is the soft edge of a shadow cast by a point light
-        decay={0} // the amount the light dims as it moves away from the source
-        intensity={Math.PI * 0.2} // the light intensity
+        penumbra={1} // la penumbra es el borde suave de una sombra proyectada por un punto de luz
+        decay={0} // la cantidad en que la luz se atenúa a medida que se aleja de la fuente
+        intensity={Math.PI * 0.2} // la intensidad de la luz
         color={"#f8f9fa"}
       />
       <spotLight
@@ -312,7 +278,7 @@ export default Lights;
 ```javascript
     useEffect(() => {
       Object.entries(materials).map((material) => {
-        // these are the material names that can't be changed color
+        // Estos son los nombres de los materiales a los que no se les puede cambiar el color.
         if (
           material[0] !== "zFdeDaGNRwzccye" &&
           material[0] !== "ujsvqBWRMnqdwPx" &&
@@ -347,7 +313,7 @@ const VideoCarousel = () => {
   const videoSpanRef = useRef([]);
   const videoDivRef = useRef([]);
 
-  // video and indicator
+  // vídeo e indicador
   const [video, setVideo] = useState({
     isEnd: false,
     startPlay: false,
@@ -360,14 +326,14 @@ const VideoCarousel = () => {
   const { isEnd, isLastVideo, startPlay, videoId, isPlaying } = video;
 
   useGSAP(() => {
-    // slider animation to move the video out of the screen and bring the next video in
+    // animación deslizante para mover el video fuera de la pantalla y traer el siguiente video
     gsap.to("#slider", {
       transform: `translateX(${-100 * videoId}%)`,
       duration: 2,
-      ease: "power2.inOut", // show visualizer https://gsap.com/docs/v3/Eases
+      ease: "power2.inOut", // mostrar visualizador https://gsap.com/docs/v3/Eases
     });
 
-    // video animation to play the video when it is in the view
+    // animación de video para reproducir el video cuando está en la vista
     gsap.to("#video", {
       scrollTrigger: {
         trigger: "#video",
@@ -388,26 +354,26 @@ const VideoCarousel = () => {
     let span = videoSpanRef.current;
 
     if (span[videoId]) {
-      // animation to move the indicator
+      // animación para mover el indicador
       let anim = gsap.to(span[videoId], {
         onUpdate: () => {
-          // get the progress of the video
+          //obtener el progreso del video
           const progress = Math.ceil(anim.progress() * 100);
 
           if (progress != currentProgress) {
             currentProgress = progress;
 
-            // set the width of the progress bar
+            // establece el ancho de la barra de progreso
             gsap.to(videoDivRef.current[videoId], {
               width:
                 window.innerWidth < 760
-                  ? "10vw" // mobile
+                  ? "10vw" // móvil
                   : window.innerWidth < 1200
                   ? "10vw" // tablet
                   : "4vw", // laptop
             });
 
-            // set the background color of the progress bar
+            // establece el color de fondo de la barra de progreso
             gsap.to(span[videoId], {
               width: `${currentProgress}%`,
               backgroundColor: "white",
@@ -415,7 +381,7 @@ const VideoCarousel = () => {
           }
         },
 
-        // when the video is ended, replace the progress bar with the indicator and change the background color
+        // cuando finalice el video, reemplace la barra de progreso con el indicador y cambie el color de fondo
         onComplete: () => {
           if (isPlaying) {
             gsap.to(videoDivRef.current[videoId], {
@@ -432,7 +398,7 @@ const VideoCarousel = () => {
         anim.restart();
       }
 
-      // update the progress bar
+      // actualizar la barra de progreso
       const animUpdate = () => {
         anim.progress(
           videoRef.current[videoId].currentTime /
@@ -441,10 +407,10 @@ const VideoCarousel = () => {
       };
 
       if (isPlaying) {
-        // ticker to update the progress bar
+        // ticker para actualizar la barra de progreso
         gsap.ticker.add(animUpdate);
       } else {
-        // remove the ticker when the video is paused (progress bar is stopped)
+        // eliminar el ticker cuando el video está en pausa (la barra de progreso se detiene)
         gsap.ticker.remove(animUpdate);
       }
     }
@@ -460,7 +426,7 @@ const VideoCarousel = () => {
     }
   }, [startPlay, videoId, isPlaying, loadedData]);
 
-  // vd id is the id for every video until id becomes number 3
+  // vd id es el id de cada video hasta que id se convierta en el número 3
   const handleProcess = (type, i) => {
     switch (type) {
       case "video-end":
@@ -767,30 +733,3 @@ canvas {
 ```
 
 </details>
-
-## <a name="links">🔗 Links</a>
-
-Public Assets used in the project can be found [here](https://drive.google.com/file/d/1syHiNxSIGXVApaIozdrLXM2x5dPhvaJL/view?usp=sharing)
-
-## <a name="more">🚀 More</a>
-
-**Advance your skills with Next.js 14 Pro Course**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://jsmastery.pro/next14" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/557837ce-f612-4530-ab24-189e75133c71" alt="Project Banner">
-</a>
-
-<br />
-<br />
-
-**Accelerate your professional journey with the Expert Training program**
-
-And if you're hungry for more than just a course and want to understand how we learn and tackle tech challenges, hop into our personalized masterclass. We cover best practices, different web skills, and offer mentorship to boost your confidence. Let's learn and grow together!
-
-<a href="https://www.jsmastery.pro/masterclass" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/fed352ad-f27b-400d-9b8f-c7fe628acb84" alt="Project Banner">
-</a>
-
-#
