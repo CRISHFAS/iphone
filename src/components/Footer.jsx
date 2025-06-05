@@ -7,25 +7,25 @@ const Footer = () => {
       <div className="screen-max-width">
         <div>
           <p className="font-semibold text-gray text-xs">
-            More ways to shop: {' '}
+            Más formas de comprar: {' '}
             <span className="underline text-blue">
-            Find an Apple Store {' '}
+            Encuentra una tienda Apple {' '}
             </span>
-            or {' '}
+            o {' '}
             <span className="underline text-blue">
-            other retailer
+            otro minorista
             </span>{' '}
-            near you.
+            cerca de ti.
           </p>
           <p className="font-semibold text-gray text-xs">
-            Or call 000800-040-1966
+            O llame al 000800-040-1966
           </p>
         </div>
 
         <div className="bg-neutral-700 my-5 h-[1px] w-full" />
 
         <div className="flex md:flex-row flex-col md:items-center justify-between">
-          <p className="font-semibold text-gray text-xs">Copright @ 2024 Apple Inc. All rights reserved.</p>
+          <p className="font-semibold text-gray text-xs">Copright @ 2024 Apple Inc. Todos lo Derechos Reservados.</p>
           <div className="flex">
             {footerLinks.map((link, i) => (
               <p key={link} className="font-semibold text-gray text-xs">

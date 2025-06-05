@@ -36,12 +36,12 @@ const HowItWorks = () => {
 
         <div className="flex flex-col items-center">
           <h2 className="hiw-title">
-            A17 Pro chip.
-            <br /> A monster win for gaming.
+            Chip A17 Pro
+            <br /> Una victoria monstruosa para los videojuegos.
           </h2>
 
           <p className="hiw-subtitle">
-            It's here. The biggest redesign in the history of Apple GPUs.
+            Ya está aquí. El mayor rediseño en la historia de las GPU de Apple.
           </p>
         </div>
 
@@ -66,26 +66,27 @@ const HowItWorks = () => {
           <div className="hiw-text-container">
                 <div className="flex flex-1 justify-center flex-col">
                   <p className="hiw-text g_fadeIn">
-                    A17 Pro is an entirely new class of iPhone chip that delivers our {' '}
+                    El A17 Pro es una clase completamente nueva de chip para iPhone que ofrece nuestra {' '}
                     <span className="text-white">
-                      best graphic performance by far
+                      el mejor rendimiento gráfico con diferencia
                     </span>.
                   </p>
 
                   <p className="hiw-text g_fadeIn">
-                   Mobile {' '}
+                   {' '}
+                   <div></div>
                     <span className="text-white">
-                      games will look and feel so immersive
+                      Los juegos se verán y se sentirán tan inmersivos
                     </span>,
-                     with incredibly detailed environments and characters.
+                     con entornos y personajes increíblemente detallados.
                   </p>
                 </div>
               
 
               <div className="flex-1 flex justify-center flex-col g_fadeIn">
-                <p className="hiw-text">New</p>
-                <p className="hiw-bigtext">Pro-class GPU</p>
-                <p className="hiw-text">with 6 cores</p>
+                <p className="hiw-text">Nuevo</p>
+                <p className="hiw-bigtext">GPU de clase profesional</p>
+                <p className="hiw-text">con 6 núcleos</p>
               </div>
               </div>
             </div>

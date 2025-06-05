@@ -35,13 +35,13 @@ const Features = () => {
     <section className="h-full common-padding bg-zinc relative overflow-hidden">
       <div className="screen-max-wdith">
         <div className="mb-12 w-full">
-          <h1 id="features_title" className="section-heading">Explore the full story.</h1>
+          <h1 id="features_title" className="section-heading">Explora la historia completa.</h1>
         </div>
         
         <div className="flex flex-col justify-center items-center overflow-hidden">
           <div className="mt-32 mb-24 pl-24">
             <h2 className="text-5xl lg:text-7xl font-semibold">iPhone.</h2>
-            <h2 className="text-5xl lg:text-7xl font-semibold">Forged in titanium.</h2>
+            <h2 className="text-5xl lg:text-7xl font-semibold">Forjado en titanio.</h2>
           </div>
 
           <div className="flex-center flex-col sm:px-10">
@@ -64,21 +64,21 @@ const Features = () => {
               <div className="feature-text-container">
                 <div className="flex-1 flex-center">
                   <p className="feature-text g_text">
-                    iPhone 15 Pro is {' '}
+                    iPhone 15 Pro es {' '}
                     <span className="text-white">
-                      the first iPhone to feature an aerospace-grade titanium design
-                    </span>,
-                    using the same alloy that spacecrafts use for missions to Mars.
+                      el primer iPhone que presenta un diseño de titanio de grado aeroespacial
+                    </span>
+                    {' '}utilizando la misma aleación que utilizan las naves espaciales para las misiones a Marte.
                   </p>
                 </div>
 
                 <div className="flex-1 flex-center">
                   <p className="feature-text g_text">
-                    Titanium has one of the best strength-to-weight ratios of any metal, making these our {' '}
+                    El titanio tiene una de las mejores relaciones resistencia-peso de cualquier metal, lo que hace que estos sean nuestros {' '}
                     <span className="text-white">
-                      lightest Pro models ever.
-                    </span>
-                    You'll notice the difference the moment you pick one up.
+                      modelos Pro más ligeros de la historia.
+                    </span>{' '}
+                    Notarás la diferencia en el momento que tomes uno.
                   </p>
                 </div>
 
